@@ -29,6 +29,9 @@ This is the implementation of [Bag of Tricks for Efficient Text Classification](
 - **utils.py** : Preprocessing, etc.
 - **data.py** : Get train, test data from csv file, etc.
 
+## Dataset
+![Alt text](datasize.png)
+
 ## Development Environment
 - OS: Ubuntu 18.04.5 LTS (64bit)
 - Language: Python 3.10.13
